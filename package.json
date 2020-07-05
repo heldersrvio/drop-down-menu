@@ -1,0 +1,17 @@
+{
+  "name": "dropdownmenu",
+  "version": "1.0.0",
+  "description": "A drop down menu module",
+  "main": "dropDownMenu.js",
+  "dependencies": {
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

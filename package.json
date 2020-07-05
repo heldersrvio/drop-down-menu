@@ -1,17 +1,21 @@
 {
-  "name": "dropdownmenu",
+  "name": "@heldersrvio/dropdownmenu",
   "version": "1.0.0",
   "description": "A drop down menu module",
   "main": "dropDownMenu.js",
-  "dependencies": {
-    "prettier": "^2.0.5"
-  },
-  "devDependencies": {
-    "eslint": "^7.4.0"
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heldersrvio/DropDownMenu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heldersrvio/DropDownMenu/issues"
+  },
+  "homepage": "https://github.com/heldersrvio/DropDownMenu#readme"
 }

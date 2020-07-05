@@ -1,6 +1,6 @@
 {
   "name": "@heldersrvio/dropdownmenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A drop down menu module",
   "main": "dropDownMenu.js",
   "dependencies": {},
